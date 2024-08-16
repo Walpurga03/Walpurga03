@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Alex! 👋</h1>
-<h3 align="center">I'm a passionate software developer interested in a lot of different topics and technologies. in a lot.</h3>
+<h3 align="center">I'm a passionate software developer interested in a lot of different topics and technologies.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walpurga03" alt="walpurga03" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=walpurga03&label=Profile%20views&color=0e75b6&style=flat" alt="walpurga03" /> </p>
 
 - 🔭 I’m currently learning: **Rust programming in more depth**
 
