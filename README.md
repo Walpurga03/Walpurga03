@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Alex! 👋</h1>
-<h3 align="center">I'm a passionate developer currently diving deep into the Rust programming language.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walpurga03&label=Profile%20views&color=0e75b6&style=flat" alt="walpurga03" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walpurga03" alt="walpurga03" /></a> </p>
+<h3 align="center">I'm a passionate software developer interested in a lot of different topics and technologies. in a lot.</h3>
 
 - 🔭 I’m currently learning: **Rust programming in more depth**
 
@@ -24,9 +20,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aldobarazutti@getalby.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aldobarazutti@getalby.com" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walpurga03&show_icons=true&locale=en&layout=compact" alt="walpurga03" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walpurga03&show_icons=true&locale=en" alt="walpurga03" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walpurga03&" alt="walpurga03" /></p>
