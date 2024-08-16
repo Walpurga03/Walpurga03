@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Alex! 👋</h1>
 <h3 align="center">I'm a passionate software developer interested in a lot of different topics and technologies. in a lot.</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walpurga03" alt="walpurga03" /></a> </p>
+
 - 🔭 I’m currently learning: **Rust programming in more depth**
 
 - 👯 I’m looking to collaborate on **I'm always open to new and interesting projects.**
@@ -20,3 +22,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/aldobarazutti@getalby.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aldobarazutti@getalby.com" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walpurga03&show_icons=true&locale=en&layout=compact" alt="walpurga03" /></p>
